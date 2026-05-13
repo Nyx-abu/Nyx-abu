@@ -26,7 +26,7 @@ I am a Software Engineer dedicated to architecting sophisticated digital solutio
 ### 🏆 Flagship Project: Float Dock
 **A macOS-inspired productivity layer for Windows**
 
-Float Dock is a high-performance desktop environment designed to revolutionize Windows productivity. It integrates system-level automation, AI-driven workflows, and premium aesthetics into a single, cohesive interface.
+Float Dock is a high-performance desktop environment designed to revolutionize Windows productivity. It integrates system-level automation, AI-driven workflows, and a refined user interface into a single, cohesive ecosystem.
 
 #### 🏗️ Architecture & Stack
 *   **Engine:** [Electron 40](https://www.electronjs.org/) + [React 18](https://react.dev/) for a native feel with web flexibility.
@@ -44,7 +44,7 @@ Float Dock is a high-performance desktop environment designed to revolutionize W
 
 ### 🎨 Engineering Philosophy
 *   **Performance First:** Lazy-loading heavy modules and optimizing IPC communication for near-zero latency.
-*   **Premium Aesthetics:** Implementing glassmorphism, micro-animations, and curated typography to elevate the standard of desktop software.
+*   **Clean UI & UX:** Implementing glassmorphism, micro-animations, and curated typography to elevate the standard of desktop software through intuitive design.
 *   **Security by Design:** Strict context isolation, IPC allowlisting, and environment filtering to ensure a safe user environment.
 
 ---
