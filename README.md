@@ -1,54 +1,55 @@
-# 👋 Hi, I'm Nyx-abu
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Creative+UI%2FUX+Designer;Mobile+App+Builder+(Capacitor)" alt="Typing SVG" />
-</p>
-
----
-
-### 🚀 About Me
-I'm a passionate developer focused on building **premium, high-performance web and mobile applications**. I love crafting smooth user experiences with modern tech stacks and bringing creative ideas to life through code.
-
-- 🛠️ Currently building **[Jelly Bean](https://github.com/Nyx-abu/Jelly-Bean---habit-tracker)** - A premium habit tracker with a focus on aesthetics and UX.
-- 📱 Mobile Enthusiast: Transforming web apps into native experiences using **Capacitor**.
-- 🎨 Design-Driven: Obsessed with micro-animations, glassmorphism, and clean UI.
-
----
-
-### 🛠️ Tech Stack
+# Nyx-abu | Software Engineer
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <i>"Building high-performance desktop architectures and scalable web ecosystems with a focus on precision and user-centric design."</i>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nyx-abu&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyx-abu&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+### 🧬 Professional Profile
+I am a Software Engineer dedicated to architecting sophisticated digital solutions. My expertise lies in bridging the gap between low-level system performance and high-level user interface elegance. I specialize in building robust desktop applications, full-stack web platforms, and AI-integrated systems that prioritize security, speed, and seamless UX.
 
 ---
 
-### 🌟 Featured Project: Jelly Bean
-> A next-gen habit tracker designed to make consistency beautiful.
+### 🛠️ Technical Ecosystem
 
-- **Frontend:** React + Vite + Framer Motion
-- **Mobile:** Capacitor for iOS/Android
-- **Styling:** Modern Tailwind CSS with custom glassmorphism effects.
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python • TypeScript • JavaScript • C • C++ • PHP • SQL • NoSQL |
+| **Frontend** | ReactJS • NextJS • TailwindCSS • Vite • Framer Motion |
+| **Backend** | NodeJS • ExpressJS • Flask • Django • Prisma |
+| **Database** | PostgreSQL • MySQL • MongoDB • Neon |
+| **Infrastructure** | Linux • Git • AWS • Vercel • Electron |
 
 ---
 
-### 📫 Connect with me
+### 🏆 Flagship Project: Float Dock
+**A macOS-inspired productivity layer for Windows**
+
+Float Dock is a high-performance desktop environment designed to revolutionize Windows productivity. It integrates system-level automation, AI-driven workflows, and premium aesthetics into a single, cohesive interface.
+
+#### 🏗️ Architecture & Stack
+*   **Engine:** [Electron 40](https://www.electronjs.org/) + [React 18](https://react.dev/) for a native feel with web flexibility.
+*   **Build System:** [Vite 5](https://vitejs.dev/) for optimized asset delivery and near-instant performance.
+*   **Intelligence:** Deep integration with [Gemini 2.5 Flash](https://deepmind.google/technologies/gemini/) for context-aware AI assistance and voice processing.
+*   **System Core:** Utilizes `node-pty` and Win32 PowerShell for deep OS integration, including window management and workspace snapshots.
+
+#### ⚡ Key Innovations
+*   **Workspace Snapshots:** A "Save State" for Windows that captures and restores entire application layouts.
+*   **Pro-Grade Clipboard:** Intelligent tracking of 5+ data types with deduplication and high-res previews.
+*   **Integrated Terminal:** A secure, GPU-accelerated terminal implementation with Dracula theme support.
+*   **AI-Native Workflow:** Seamlessly summarize, translate, and fix code using integrated LLM capabilities.
+
+---
+
+### 🎨 Engineering Philosophy
+*   **Performance First:** Lazy-loading heavy modules and optimizing IPC communication for near-zero latency.
+*   **Premium Aesthetics:** Implementing glassmorphism, micro-animations, and curated typography to elevate the standard of desktop software.
+*   **Security by Design:** Strict context isolation, IPC allowlisting, and environment filtering to ensure a safe user environment.
+
+---
+
+### 📫 Connect
 <p align="left">
   <a href="https://github.com/Nyx-abu">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -56,5 +57,5 @@ I'm a passionate developer focused on building **premium, high-performance web a
 </p>
 
 <p align="center">
-  <i>"Code is poetry, and I'm just trying to write a masterpiece."</i>
+  <sub>Designed with precision. Published from the edge.</sub>
 </p>
