@@ -1,61 +1,88 @@
-# Nyx-abu | Software Engineer
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Nyx-abu&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descAlign=60" width="100%" />
+</div>
 
-<p align="left">
-  <i>"Building high-performance desktop architectures and scalable web ecosystems with a focus on precision and user-centric design."</i>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Systems;Building+High-Performance+Desktop+Apps;Crafting+Elegant+User+Experiences" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"Bridging the gap between low-level performance and high-level interface elegance."</i>
+</div>
+
+---
+
+## ⚡ Professional Profile
+
+I am a **Software Engineer** specializing in the architecture and development of sophisticated digital solutions. My expertise encompasses the full software lifecycle, focusing on building high-performance systems, robust desktop environments, and scalable full-stack web platforms. By integrating cutting-edge AI technologies and adhering to strict security protocols, I engineer systems that prioritize both uncompromised speed and intuitive user experiences.
+
+---
+
+## 🚀 Technical Arsenal
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### Frontend Engineering
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
+
+### Backend & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-### 🧬 Professional Profile
-I am a Software Engineer dedicated to architecting sophisticated digital solutions. My expertise lies in bridging the gap between low-level system performance and high-level user interface elegance. I specialize in building robust desktop applications, full-stack web platforms, and AI-integrated systems that prioritize security, speed, and seamless UX.
+## 📈 Engineering Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nyx-abu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyx-abu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyx-abu&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&hide_border=true&theme=tokyonight" width="100%" />
+</div>
 
 ---
 
-### 🛠️ Technical Ecosystem
+## 🔮 Core Engineering Principles
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python • TypeScript • JavaScript • C • C++ • PHP • SQL • NoSQL |
-| **Frontend** | ReactJS • NextJS • TailwindCSS • Vite • Framer Motion |
-| **Backend** | NodeJS • ExpressJS • Flask • Django • Prisma |
-| **Database** | PostgreSQL • MySQL • MongoDB • Neon |
-| **Infrastructure** | Linux • Git • AWS • Vercel • Electron |
+- **Absolute Performance:** Maximizing efficiency through optimized processes, low-level system integration, and zero-latency execution.
+- **Architectural Elegance:** Designing clean, modular systems that seamlessly blend complex backend logic with fluid, dynamic user interfaces.
+- **Secure by Design:** Enforcing rigorous security models, context isolation, and strict access controls across all application environments.
 
----
-
-### 🏆 Flagship Project: Float Dock
-**A macOS-inspired productivity layer for Windows**
-
-Float Dock is a high-performance desktop environment designed to revolutionize Windows productivity. It integrates system-level automation, AI-driven workflows, and a refined user interface into a single, cohesive ecosystem.
-
-#### 🏗️ Architecture & Stack
-*   **Engine:** [Electron 40](https://www.electronjs.org/) + [React 18](https://react.dev/) for a native feel with web flexibility.
-*   **Build System:** [Vite 5](https://vitejs.dev/) for optimized asset delivery and near-instant performance.
-*   **Intelligence:** Deep integration with [Gemini 2.5 Flash](https://deepmind.google/technologies/gemini/) for context-aware AI assistance and voice processing.
-*   **System Core:** Utilizes `node-pty` and Win32 PowerShell for deep OS integration, including window management and workspace snapshots.
-
-#### ⚡ Key Innovations
-*   **Workspace Snapshots:** A "Save State" for Windows that captures and restores entire application layouts.
-*   **Pro-Grade Clipboard:** Intelligent tracking of 5+ data types with deduplication and high-res previews.
-*   **Integrated Terminal:** A secure, GPU-accelerated terminal implementation with Dracula theme support.
-*   **AI-Native Workflow:** Seamlessly summarize, translate, and fix code using integrated LLM capabilities.
-
----
-
-### 🎨 Engineering Philosophy
-*   **Performance First:** Lazy-loading heavy modules and optimizing IPC communication for near-zero latency.
-*   **Clean UI & UX:** Implementing glassmorphism, micro-animations, and curated typography to elevate the standard of desktop software through intuitive design.
-*   **Security by Design:** Strict context isolation, IPC allowlisting, and environment filtering to ensure a safe user environment.
-
----
-
-### 📫 Connect
-<p align="left">
+<div align="center">
+  <br/>
   <a href="https://github.com/Nyx-abu">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <sub>Designed with precision. Published from the edge.</sub>
-</p>
+</div>
