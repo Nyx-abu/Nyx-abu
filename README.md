@@ -62,8 +62,8 @@ I am a **Product Engineer** specializing in the architecture and development of 
 ## 📈 Engineering Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nyx-abu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyx-abu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyx-abu&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nyx-abu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" />
 </div>
 
 <br/>
@@ -82,7 +82,7 @@ I am a **Product Engineer** specializing in the architecture and development of 
 
 <div align="center">
   <br/>
-  <a href="https://github.com/Nyx-abu">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/abdur-raheem-k/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
