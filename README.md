@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Nyx-abu&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descAlign=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Nyx-abu&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Product%20Engineer&descAlignY=55&descAlign=60" width="100%" />
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 ## ⚡ Professional Profile
 
-I am a **Software Engineer** specializing in the architecture and development of sophisticated digital solutions. My expertise encompasses the full software lifecycle, focusing on building high-performance systems, robust desktop environments, and scalable full-stack web platforms. By integrating cutting-edge AI technologies and adhering to strict security protocols, I engineer systems that prioritize both uncompromised speed and intuitive user experiences.
+I am a **Product Engineer** specializing in the architecture and development of sophisticated digital solutions. My expertise encompasses the full software lifecycle, focusing on building high-performance systems, robust desktop environments, and scalable full-stack web platforms. By integrating cutting-edge AI technologies and adhering to strict security protocols, I engineer systems that prioritize both uncompromised speed and intuitive user experiences.
 
 ---
 
