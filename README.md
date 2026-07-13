@@ -52,6 +52,6 @@ I build production systems that sit between LLMs and the real world: API gateway
 
 <div align="center">
 
-*I ship code that other engineers rely on. If that matters to you, let's talk.*
+*I ship code that ends up saving time for engineers. If that matters to you, let's talk.*
 
 </div>
