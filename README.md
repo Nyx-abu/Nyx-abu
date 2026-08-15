@@ -12,7 +12,7 @@
 
 </div>
 
-I build production LLM systems on the TypeScript / Next.js / Node.js / PostgreSQL stack — RAG search, LLM API gateways with provider failover, agent evaluation frameworks, and developer tooling. 2 years in, three roles, one live RAG engine, one NPM package, one first-place hackathon at IIT Madras (Guvi, 80+ teams).
+I build production LLM systems on the TypeScript / Next.js / Node.js / PostgreSQL stack — RAG search, LLM API gateways with provider failover, agent evaluation frameworks, and developer tooling. 2 years in, three roles, one live RAG engine, one NPM package, and a hackathon win at IIT Madras.
 
 ---
 
@@ -57,23 +57,15 @@ I build production LLM systems on the TypeScript / Next.js / Node.js / PostgreSQ
 
 ## 🏆 Recognition
 
-- 🥇 **1st place** — IIT Madras Research Centre Hackathon (Guvi · 80+ teams · 36-hour build sprint)
-- 🥇 **1st place** — SIST Cluster Clubs University Hackathon (3-person team · 24-hour event)
+- 🏆 **Winner** — IIT Madras Research Centre Hackathon (Guvi · 36-hour build sprint)
+- 🏆 **Winner** — SIST Cluster Clubs University Hackathon (3-person team · 24-hour event)
 - 🎖️ **Finalist** — XDC Blockchain Hackathon (shipped a working decentralized app on the XDC Network)
 - 📦 **Published open-source** — `@abdur-raheem/tardi` (NPM) · `awwwards-ui-skill` (community skill for AI-generated UI)
-- 🔀 **Merged upstream** — [`electric-sql/pglite#1051`](https://github.com/electric-sql/pglite/pull/1051)
-
----
-
-## 📈 GitHub
-
-![Abdur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyx-abu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
 ---
 
 <div align="center">
 
-**Currently at [ShineUp](https://github.com/Nyx-abu) building real-time satellite mission-control.**
 **Open to full-stack + AI engineering roles — remote worldwide.**
 
 *If any of the above is useful to you or you're hiring — DM on [LinkedIn](https://www.linkedin.com/in/abdur-raheem-k/) or email [abdurraheem000nyx@gmail.com](mailto:abdurraheem000nyx@gmail.com). I reply within 48 hours.*
