@@ -8,11 +8,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdurraheem-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurraheem000nyx@gmail.com)
 
-📍 Chennai, India · IST · Overlaps EU 12–6 PM / US-East 7–11 AM · **Open to remote worldwide**
+📍 Chennai, India · IST (EU 12-6 PM / US-East 7-11 AM overlap) · **Open to remote worldwide**
 
 </div>
 
-I build production LLM systems on the TypeScript / Next.js / Node.js / PostgreSQL stack — RAG search, LLM API gateways with provider failover, agent evaluation frameworks, and developer tooling. 2 years in, three roles, one live RAG engine, one NPM package, and a hackathon win at IIT Madras.
+I build production LLM systems with TypeScript, Next.js, Node.js, and PostgreSQL, focusing on RAG search, multi-provider API gateways, and agent evaluation frameworks. Over the past 2 years, I've shipped a live RAG engine, published open-source developer tooling on NPM, and won the IIT Madras research hackathon.
 
 ---
 
@@ -21,22 +21,22 @@ I build production LLM systems on the TypeScript / Next.js / Node.js / PostgreSQ
 | Project | What it does | Stack | Live |
 |---|---|---|---|
 | [**Nori**](https://github.com/Nyx-abu/nori) | Multi-vector RAG search + React Flow orchestration canvas · **nDCG@10 = 0.84** | Next.js · pgvector · Gemini · Jina · React Flow | [nori-gamma.vercel.app](https://nori-gamma.vercel.app) |
-| [**Tardi**](https://github.com/Nyx-abu/tardi) | Open-source LLM-agent testing framework · 5-tier assertion gauntlet | TypeScript · Vercel AI SDK · Zod | [NPM →](https://www.npmjs.com/package/@abdur-raheem/tardi) |
+| [**Tardi**](https://github.com/Nyx-abu/tardi) | Open-source LLM agent testing framework with 5-tier assertion checks | TypeScript · Vercel AI SDK · Zod | [NPM →](https://www.npmjs.com/package/@abdur-raheem/tardi) |
 | [**LLM Gateway**](https://github.com/Nyx-abu/llm-gateway) | Zero-downtime OpenAI ↔ Anthropic failover via Envoy ext_proc | Go · Envoy · gRPC · Docker · Playwright | [Docs →](https://github.com/Nyx-abu/llm-gateway#readme) |
-| [**Float Dock**](https://github.com/Nyx-abu/float-dock) | Cross-platform Electron productivity dock · MIT · forked as DockShift | Electron · React · Vite · xterm.js · node-pty | [Releases →](https://github.com/Nyx-abu/float-dock/releases) |
-| [**Developer DNA**](https://github.com/Nyx-abu/developer-dna) | Kafka + LangGraph telemetry pipeline · "Spotify Wrapped for developers" | Django · Kafka · LangGraph · FAISS · VS Code | [Screenshots →](https://github.com/Nyx-abu/developer-dna#readme) |
-| [**awwwards-ui-skill**](https://github.com/Nyx-abu/awwwards-ui-skill) | AI-agent skill that forces award-tier design quality · **⭐ 7** | Node · Playwright · SKILL.md | [NPM →](https://www.npmjs.com/package/awwwards-ui-skill) |
+| [**Float Dock**](https://github.com/Nyx-abu/float-dock) | Cross-platform Electron productivity dock (MIT, forked as DockShift) | Electron · React · Vite · xterm.js · node-pty | [Releases →](https://github.com/Nyx-abu/float-dock/releases) |
+| [**Developer DNA**](https://github.com/Nyx-abu/developer-dna) | Kafka + LangGraph telemetry pipeline ("Spotify Wrapped for developers") | Django · Kafka · LangGraph · FAISS · VS Code | [Screenshots →](https://github.com/Nyx-abu/developer-dna#readme) |
+| [**awwwards-ui-skill**](https://github.com/Nyx-abu/awwwards-ui-skill) | Agent skill for high-craft UI design and frontend code generation · **⭐ 7** | Node · Playwright · SKILL.md | [NPM →](https://www.npmjs.com/package/awwwards-ui-skill) |
 
 ---
 
 ## 🛠️ Stack
 
-**Languages** — TypeScript · JavaScript · Python · Go · SQL · C · C++
-**Frontend** — Next.js 15 (App Router · RSC · Server Actions) · React 19 · Tailwind · React Flow · Framer Motion
-**Backend** — Node.js · Express · Go · gRPC · REST · WebSockets · Server-Sent Events
-**Databases** — PostgreSQL · pgvector · MongoDB · Prisma · Redis · Neon · Supabase
-**AI / LLM** — RAG · HyDE · Reciprocal Rank Fusion · cross-encoder rerank · LangGraph · Vercel AI SDK · OpenAI · Anthropic · Gemini · FAISS · HNSW
-**DevOps** — Docker · GitHub Actions · AWS (EC2/S3) · Vercel · Envoy Proxy · Linux
+**Languages:** TypeScript · JavaScript · Python · Go · SQL · C · C++
+**Frontend:** Next.js 15 (App Router, RSC, Server Actions) · React 19 · Tailwind · React Flow · Framer Motion
+**Backend:** Node.js · Express · Go · gRPC · REST · WebSockets · Server-Sent Events
+**Databases:** PostgreSQL · pgvector · MongoDB · Prisma · Redis · Neon · Supabase
+**AI / LLM:** RAG · HyDE · Reciprocal Rank Fusion · cross-encoder rerank · LangGraph · Vercel AI SDK · OpenAI · Anthropic · Gemini · FAISS · HNSW
+**DevOps:** Docker · GitHub Actions · AWS (EC2/S3) · Vercel · Envoy Proxy · Linux
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -57,17 +57,17 @@ I build production LLM systems on the TypeScript / Next.js / Node.js / PostgreSQ
 
 ## 🏆 Recognition
 
-- 🏆 **Winner** — IIT Madras Research Centre Hackathon (Guvi · 36-hour build sprint)
-- 🏆 **Winner** — SIST Cluster Clubs University Hackathon (3-person team · 24-hour event)
-- 🎖️ **Finalist** — XDC Blockchain Hackathon (shipped a working decentralized app on the XDC Network)
-- 📦 **Published open-source** — `@abdur-raheem/tardi` (NPM) · `awwwards-ui-skill` (community skill for AI-generated UI)
+- 🏆 **Winner:** IIT Madras Research Centre Hackathon (Guvi, 36-hour build sprint)
+- 🏆 **Winner:** SIST Cluster Clubs University Hackathon (3-person team, 24-hour event)
+- 🎖️ **Finalist:** XDC Blockchain Hackathon (built a decentralized app on the XDC Network)
+- 📦 **Open Source:** Published [`@abdur-raheem/tardi`](https://www.npmjs.com/package/@abdur-raheem/tardi) on NPM and [`awwwards-ui-skill`](https://www.npmjs.com/package/awwwards-ui-skill)
 
 ---
 
 <div align="center">
 
-**Open to full-stack + AI engineering roles — remote worldwide.**
+**Open to full-stack and AI engineering roles (remote worldwide).**
 
-*If any of the above is useful to you or you're hiring — DM on [LinkedIn](https://www.linkedin.com/in/abdur-raheem-k/) or email [abdurraheem000nyx@gmail.com](mailto:abdurraheem000nyx@gmail.com). I reply within 48 hours.*
+*Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/abdur-raheem-k/) or email [abdurraheem000nyx@gmail.com](mailto:abdurraheem000nyx@gmail.com). I usually reply within 48 hours.*
 
 </div>
